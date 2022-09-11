@@ -17,6 +17,10 @@
           "appId": "dsu8q4ufgdb5o",
           "type": "manual"
         }
+      },
+      "auth": {
+        "amplifypredictionssa1d63fb82": {},
+        "true": {}
       }
     }
   }
