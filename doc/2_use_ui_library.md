@@ -41,7 +41,7 @@ https://docs.amplify.aws/lib/datastore/data-access/q/platform/js/#querying-for-a
 npm install aws-amplify @aws-amplify/ui-react
 ```
 
-## Congigure Amplify
+## Configure Amplify
 
 * before
 
