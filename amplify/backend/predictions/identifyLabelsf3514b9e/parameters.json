@@ -1,0 +1,15 @@
+{
+    "resourceName": "identifyLabelsf3514b9e",
+    "identifyPolicyName": "identifyPolicyf3514b9e",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "adminAuthProtected": "DISALLOW",
+    "adminGuestProtected": "DISALLOW",
+    "identifyType": "identifyLabels",
+    "access": "auth",
+    "type": "LABELS"
+}

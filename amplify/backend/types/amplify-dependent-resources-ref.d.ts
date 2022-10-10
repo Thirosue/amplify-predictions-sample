@@ -16,5 +16,11 @@ export type AmplifyDependentResourcesAttributes = {
             "GraphQLAPIIdOutput": "string",
             "GraphQLAPIEndpointOutput": "string"
         }
+    },
+    "predictions": {
+        "identifyLabelsf3514b9e": {
+            "region": "string",
+            "type": "string"
+        }
     }
 }

@@ -54,5 +54,13 @@
         }
       }
     }
+  },
+  "predictions": {
+    "identifyLabelsf3514b9e": {
+      "providerPlugin": "awscloudformation",
+      "service": "Rekognition",
+      "dependsOn": [],
+      "identifyType": "identifyLabels"
+    }
   }
 }

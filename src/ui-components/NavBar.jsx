@@ -19,7 +19,8 @@ export default function NavBar(props) {
   return (
     <Flex
       gap="20px"
-      width="1440px"
+      width="1131px"
+      height="79px"
       justifyContent="center"
       alignItems="center"
       position="relative"
@@ -158,7 +159,7 @@ export default function NavBar(props) {
       </Flex>
       <Flex
         gap="32px"
-        width="633.5px"
+        width="294px"
         justifyContent="flex-end"
         alignItems="center"
         shrink="0"
