@@ -59,7 +59,8 @@ function App() {
           templateColumns="1fr 1fr"
           padding="3rem"
         >
-          <TallCard picture={picture} />
+          <div><TallCard picture={picture} /></div>
+          <div>ここに画像解析結果を出力する</div>
         </Grid>
       </>) : (<>
         <NavBar />
